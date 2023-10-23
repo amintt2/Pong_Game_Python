@@ -12,5 +12,6 @@ This is a simple pong game made using python and copilot.
 ## Screenshots
 Pong Game Play Screen 
 ![Pong Game Play Screen](Pong_Game_Play_Screen.png)
+
 Pong Game Restart Screen
 ![Pong Game Restart Screen](Pong_Game_Restart_Screen.png)
