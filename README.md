@@ -15,3 +15,8 @@ Pong Game Play Screen
 
 Pong Game Restart Screen
 ![Pong Game Restart Screen](Pong_Game_Restart_Screen.png)
+
+Pong Gameplay Video
+<video src="Pong_Gameplay_Video.mp4" controls title= "Gameplay Video"></video>
+
+

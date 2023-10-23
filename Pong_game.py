@@ -125,7 +125,7 @@ while True:
         best_score = int(best_score_file.read())
         best_score_file.close()
         best_score_text = font.render(f"Best Score: {best_score}", True, gray)
-        best_score_rect = best_score_text.get_rect(center=(900, 900))
+        best_score_rect = best_score_text.get_rect(center=(1000, 800))
         screen.blit(best_score_text, best_score_rect)
         screen.blit(quit_text, quit_rect)
         screen.blit(score_text, (600, 600))
