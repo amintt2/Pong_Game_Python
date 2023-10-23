@@ -17,7 +17,7 @@ Pong Game Restart Screen
 ![Pong Game Restart Screen](Pong_Game_Restart_Screen.png)
 
 Pong Gameplay Video
-![Pong Gameplay Video](Pong_Gameplay_Video.mp4)
+![Pong Gameplay Video](Pong_Gameplay_Video.gif)
 ```
 
 
